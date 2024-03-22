@@ -596,12 +596,14 @@ body {
 }
 .title text-center mb-4{
   margin-top: 25px;
+  color: #F0ECE5;
 
 }
 .whatsapp{
-  width: 39px;
-  height: 39px;
+  width: 59px;
+  height: 59px;
   margin-top: 430px;
+
 }
 .instagram,.gmail{
   width: 64px;
@@ -611,7 +613,7 @@ body {
 }
 .gmail{
   width: 58px;
-  height: 50px;
+  height: 58px;
   margin-top: 430px;
   margin-left: 12px;
 }
@@ -621,4 +623,7 @@ body {
 .video-container video {
   max-width: 40%; 
   max-height: 40vh; 
+}
+title text-center mb-4{
+  color: #F0ECE5;
 }
