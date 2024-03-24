@@ -603,6 +603,7 @@ body {
   width: 59px;
   height: 59px;
   margin-top: 430px;
+    border-radius: 10px;
 
 }
 .instagram,.gmail{
@@ -610,12 +611,23 @@ body {
   height: 64px;
   margin-top: 430px;
   margin-left: 15px;
+    border-radius:10px;
+}
+.whatsapp:hover{
+  box-shadow: 5px 5px 5px #018141;
+}
+.instagram:hover{
+  box-shadow: 5px 5px 5px #a148b3;
+}
+.gmail:hover{
+  box-shadow: 5px 5px 5px #1d7ca5;
 }
 .gmail{
   width: 58px;
   height: 58px;
   margin-top: 430px;
   margin-left: 12px;
+    border-radius:10px;
 }
 .videotext{
   margin-bottom: 15px;
